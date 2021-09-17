@@ -1,0 +1,13 @@
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\bin\Debug\netcoreapp3.1\VolvoTruck.Domain.deps.json
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\bin\Debug\netcoreapp3.1\VolvoTruck.Domain.dll
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\bin\Debug\netcoreapp3.1\VolvoTruck.Domain.pdb
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\VolvoTruck.Domain.AssemblyInfoInputs.cache
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\VolvoTruck.Domain.AssemblyInfo.cs
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\VolvoTruck.Domain.csproj.CoreCompileInputs.cache
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\VolvoTruck.Domain.RazorTargetAssemblyInfo.cache
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\staticwebassets\VolvoTruck.Domain.StaticWebAssets.Manifest.cache
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\staticwebassets\VolvoTruck.Domain.StaticWebAssets.xml
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\VolvoTruck.Domain.dll
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\VolvoTruck.Domain.pdb
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.Domain\obj\Debug\netcoreapp3.1\VolvoTruck.Domain.csprojAssemblyReference.cache

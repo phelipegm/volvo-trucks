@@ -1,0 +1,9 @@
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\bin\Debug\netstandard2.0\VolvoTruck.DI.deps.json
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\bin\Debug\netstandard2.0\VolvoTruck.DI.dll
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\bin\Debug\netstandard2.0\VolvoTruck.DI.pdb
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\obj\Debug\netstandard2.0\VolvoTruck.DI.csprojAssemblyReference.cache
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\obj\Debug\netstandard2.0\VolvoTruck.DI.AssemblyInfoInputs.cache
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\obj\Debug\netstandard2.0\VolvoTruck.DI.AssemblyInfo.cs
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\obj\Debug\netstandard2.0\VolvoTruck.DI.csproj.CoreCompileInputs.cache
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\obj\Debug\netstandard2.0\VolvoTruck.DI.dll
+C:\Users\phelipe.martins\Documents\Volvo_Trucks\src\VolvoTruck.DI\obj\Debug\netstandard2.0\VolvoTruck.DI.pdb
